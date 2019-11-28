@@ -1,0 +1,65 @@
+0
+player
+player_
+Yourself
+0,0,0,0,0,0
+1
+Mural Valley
+mural_valley
+Mural Valley é onde você nasceu, é uma pequena cidade em um vale, bem passifica por sinal, onde você mora com sua irmã.
+3,2,5,4,0,0
+2
+Templo Sagrado
+templo_sagrado
+Recupera sua vida, só pode ser entrado por pessoas puras de coração.
+1,0,0,0,0,0
+3
+Casa
+casa
+Sua casa é onde você vive com sua irmã, uma casa feliz.
+0,1,0,0,0,0
+4
+Casa do treinador
+casa_treinador
+A casa do treinador é onde, após você ter aceito a vingança, seu mestre te leva para treinamentos, onde você vai ter vários desafios para serem aceitos, e aqui é onde você consegue realizar seus treinos e melhoria de habilidades.
+0,0,1,0,0,0
+5
+Roman Disk
+roman_disk
+Aqui é onde você dá inicio a sua onda de testes, você tem que completar uma quest na montanha e outra na floresta, e por fim adentrar na floresta de eskaroth.
+8,0,6,1,0,0
+6
+Floresta de Eskaroth
+floresta_eskaroth
+Aqui é onde vai ser realizado o teste final, para ver se você é capaz de adentrar na guilda de aventureiros, é um teste bem difícil e após completá-lo você poderá descer para realizar o exame de admissão.
+0,0,7,5,0,10
+7
+Floresta Desconhecida
+floresta_desconhecida
+Cuidado com as armadilhas e volte para a zona de teste vivo.
+9,0,0,6,0,0
+8
+Montanha
+montanha
+Aqui na montanha é onde você será provado a primeira vez, a montanha é um lugar onde você o ar é muito rarefeito, ou seja, um lugar que precisa de bastante concentração para manter a respiração no ritmo certo, e além disso gasta muita energia, para se manter.
+0,5,9,0,0,0
+9
+Floresta
+floresta
+A floresta é um lugar onde foi cercado de armadilhas por seu mestre, você precisa sentir essas armadilhas para não ser pego em nenhuma.
+0,7,0,8,0,0
+10
+Floresta Passage 1
+floresta_passage_um
+A primeira passagem da floresta de eskaroth, contém muitos venenos no ar, acaba matando muitas pessoas, por não conseguirem respirar.
+0,13,0,0,6,0
+13
+Floresta Passage 2
+floresta_passage_dois
+A segunda passagem da floresta de eskaroth, existem vários obstacúlos, tome cuidado.
+10,0,17,0,0,0
+17
+Floresta Passage 3
+floresta_passage_tres
+A terceira passagem contém muitos demônios escondidos, há boatos, que apenas pessoas desconhecidas conseguiram escapar daqui.
+0,0,0,13,0,0
